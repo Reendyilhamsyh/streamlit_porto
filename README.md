@@ -1,3 +1,4 @@
+ Link Deploy Streamlit : https://appporto-wuxfwhscu9m7zyjktepybr.streamlit.app/
  # 📊 Streamlit Interactive Visualization
 
 Aplikasi Streamlit ini menggunakan 5 basic components:
